@@ -1,0 +1,13 @@
+*.sln
+/Library
+/Temp
+/ProjectSettings
+.DS_Store
+*.meta
+/.vscode
+*.csproj
+*.wav
+*.png
+*.ogg
+*.jpeg
+*.jpg
